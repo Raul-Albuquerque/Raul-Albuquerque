@@ -1,5 +1,4 @@
-# 💫 About Me:
-😀 Dev iniciante.<br>🔍 Estou buscando experiência para poder conquistar meu primeiro emprego na área de programação.
+# Sejam bem-vindos !!
 
 
 ## 🌐 Socials:
