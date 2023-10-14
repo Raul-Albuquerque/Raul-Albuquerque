@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raul-albuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="raul-albuquerque" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raul-albuquerque" alt="raul-albuquerque" /></a> </p>
-
 - 🌱 I’m currently learning **Vue.JS | React**
 
 - 💬 Ask me about **HTML | CSS | JS**
