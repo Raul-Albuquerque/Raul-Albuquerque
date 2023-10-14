@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/banner_github.gif)
+![MasterHead](https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/banner_github2.gif)
 <h1 align="center">Hi 👋, I'm Raul Albuquerque</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/coding2.gif">
