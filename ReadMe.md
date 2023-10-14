@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/banner_github2.gif)
+![MasterHead](https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/banner_github3.gif)
 <table width="100%">
   <tr>
     <th colspan="2">
-      <h1 align="center">Hi 👋, I'm Raul Albuquerque</h1>
+      <h1 align="center">Welcome 👋, I'm Raul Albuquerque</h1>
     </th>
   </tr>
   <tr>
