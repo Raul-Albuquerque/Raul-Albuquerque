@@ -2,12 +2,12 @@
 <table width="100%">
   <tr>
     <th colspan="2">
-      <h1 align="center">Welcome 👋, I'm Raul Albuquerque</h1>
+      <h1 align="center">Welcome 👋</h1>
     </th>
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center">A passionate frontend developer from Brazil.</h3>
+      <h3 align="center">I'm a passionate frontend developer from Brazil.</h3>
     </td>
   </tr>
   <tr>
