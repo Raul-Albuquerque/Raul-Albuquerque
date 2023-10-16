@@ -21,7 +21,7 @@
     </td>
     <td>
       <p>
-        <img align="right" alt="coding" max-width="400" width="100%" src="https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/coding2.gif">
+        <img align="right" alt="coding" max-width="400" width="100%" src="https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/coding3.gif">
       </p>
     </td>
   </tr>
@@ -85,7 +85,7 @@
   <tr>
     <td>
       <p>
-        <img align="right" alt="coding" max-width="463" width="100%" src="https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/coding3.gif">
+        <img align="right" alt="coding" max-width="463" width="100%" src="https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/coding2.gif">
       </p>
     <td>
       <p>
