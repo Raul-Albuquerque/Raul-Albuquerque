@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/Raul-Albuquerque/servidor_estatico/blob/main/banner_github3.gif)
 <table width="100%">
   <tr>
     <th colspan="2">
