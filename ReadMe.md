@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1A43&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1A43&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Albuquerque.;I'm+a+Front-End+Developer;Welcome!+:%29)](https://github.com/Raul-Albuquerque)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006aff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Albuquerque.;I'm+a+Front-End+Developer;Welcome!+:%29)](https://github.com/Raul-Albuquerque)
 
 ## 🔥 Skills
 
@@ -27,9 +27,13 @@
 
 ## ☎️ Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-albuquerque/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.raulalbuquerque.com/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5581997080397&text=Oi%2C+vim+pelo+seu+site.&type=phone_number&app_absent=0/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raul-Albuquerque&theme=transparent)](https://git.io/streak-stats)
+![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul-Albuquerque&show_icons=true&theme=transparent)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1A43&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=120&section=footer"/>
