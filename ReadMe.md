@@ -10,5 +10,5 @@
 
 ### Contacts
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/dev-raul-albuquerque)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-raul-albuquerque)
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:raulmalbuquerque2014@gmail.com)
